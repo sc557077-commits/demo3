@@ -1,1 +1,2 @@
 console.log("Hello from feature-2");
+Highlight;
